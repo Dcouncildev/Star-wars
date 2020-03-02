@@ -1,0 +1,23 @@
+body {
+  background-image:url("https://www.elsetge.cat/myimg/f/136-1366648_star-wars-coruscant.jpg");
+  background-repeat: unset;
+}
+.card-img-top {
+  height: 200px;
+  width: 250px;
+}
+.navbar-nav {
+  margin-left: 1150px;
+  text-align: right;
+}
+.box1 {
+  width: 90%;
+  margin: auto;
+  overflow: auto;
+}
+.subtitle {
+  color: azure;
+  height: 120px;
+  text-align: center;
+  padding-top: 35px;
+}
